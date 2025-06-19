@@ -11,12 +11,12 @@
 <tr>
 <td>
 
-`minecraft-essentails:allow-ping`
+`minecraft-essentails:allow-oauth`
 
 </td>
 <td>
 
-Enables the ping command without any pre-configured scope.
+Enables the oauth command without any pre-configured scope.
 
 </td>
 </tr>
@@ -24,12 +24,12 @@ Enables the ping command without any pre-configured scope.
 <tr>
 <td>
 
-`minecraft-essentails:deny-ping`
+`minecraft-essentails:deny-oauth`
 
 </td>
 <td>
 
-Denies the ping command without any pre-configured scope.
+Denies the oauth command without any pre-configured scope.
 
 </td>
 </tr>
